@@ -1,4 +1,6 @@
-﻿namespace PatternDesign.FactoryMethod
+﻿using DesignPatterns.CreationalPatterns.FactoryMethod.Vehicles;
+
+namespace DesignPatterns.CreationalPatterns.FactoryMethod
 {
     internal class FactoryMethod
     {

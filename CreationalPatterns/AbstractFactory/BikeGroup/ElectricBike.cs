@@ -1,4 +1,4 @@
-﻿namespace PatternDesign.AbstractFactory;
+﻿namespace DesignPatterns.CreationalPatterns.AbstractFactory.BikeGroup;
 
 internal class ElectricBike : IBike
 {

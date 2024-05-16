@@ -1,4 +1,6 @@
-﻿namespace PatternDesign.FactoryMethod;
+﻿using DesignPatterns.CreationalPatterns.FactoryMethod;
+
+namespace DesignPatterns.CreationalPatterns.FactoryMethod.Vehicles;
 
 internal class DefaultVehicle : IVehicle
 {
