@@ -83,8 +83,8 @@ Console.WriteLine("------ Bridge Pattern ------");
 Shape desktopShape = new BridgeShape(new DesktopDrawer());
 desktopShape.Draw();
 
-Shape movilShape = new BridgeShape(new MovilDrawer());
-movilShape.Draw();
+Shape MobileShape = new BridgeShape(new MobileDrawer());
+MobileShape.Draw();
 
 
 // Decorator Pattern

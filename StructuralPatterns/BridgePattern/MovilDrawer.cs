@@ -1,14 +1,14 @@
 ﻿namespace DesignPatterns.StructuralPatterns.BridgePattern;
 
-internal class MovilDrawer : IDrawer
+internal class MobileDrawer : IDrawer
 {
     public void DrawCircle()
     {
-        Console.WriteLine("Drawing a movil circle shape");
+        Console.WriteLine("Drawing a Mobile circle shape");
     }
 
     public void DrawSquare()
     {
-        Console.WriteLine("Drawing a movil sqaure shape");
+        Console.WriteLine("Drawing a Mobile sqaure shape");
     }
 }
